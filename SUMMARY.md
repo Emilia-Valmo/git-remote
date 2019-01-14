@@ -6,5 +6,6 @@
 * [Chao](chao/README.md)
   * [Enfant de chao](chao/enfant-de-chao.md)
 * [Enfant](enfant/README.md)
-  * [Enfant d'enfant](enfant/enfant-denfant.md)
+  * [Enfant d'enfant](enfant/enfant-denfant/README.md)
+    * [enfant d'enfant d'enfant](enfant/enfant-denfant/enfant-denfant-denfant.md)
 
