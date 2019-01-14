@@ -5,5 +5,6 @@
   * [Enfant de Hello](hello/enfant-de-hello.md)
 * [Chao](chao/README.md)
   * [Enfant de chao](chao/enfant-de-chao.md)
-* [Enfant](enfant.md)
+* [Enfant](enfant/README.md)
+  * [Enfant d'enfant](enfant/enfant-denfant.md)
 
