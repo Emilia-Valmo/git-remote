@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Test](README.md)
+* [Guide de préparation du meilleur cake aux olives](README.md)
 * [Hello](hello/README.md)
   * [Enfant de Hello](hello/enfant-de-hello.md)
 * [Chao](chao/README.md)
