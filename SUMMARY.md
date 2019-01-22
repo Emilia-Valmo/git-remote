@@ -3,7 +3,7 @@
 * [Guide de préparation du meilleur cake aux olives](README.md)
 * [Hello](hello/README.md)
   * [Enfant de Hello](hello/enfant-de-hello.md)
-* [Chao](chao/README.md)
+* [Guide de préparation de la galette des rois](chao/README.md)
   * [Enfant de chao](chao/enfant-de-chao.md)
 * [Enfant](enfant/README.md)
   * [Enfant d'enfant](enfant/enfant-denfant/README.md)
