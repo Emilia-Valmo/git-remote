@@ -10,4 +10,5 @@
     * [enfant d'enfant d'enfant](enfant/enfant-denfant/enfant-denfant-denfant.md)
 * [Yellow](yellow/README.md)
   * [Mellow](yellow/mellow.md)
+* [Glossary terms](glossary-terms.md)
 
