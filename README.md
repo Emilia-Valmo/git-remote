@@ -1,7 +1,5 @@
 # Guide de préparation du meilleur cake aux olives
 
-## PRÉPARATION
-
 ### ÉTAPE 1
 
 Préchauffez le four à 180°C \(th.6\), puis rincez les olives pour les dessaler un peu, et égouttez-les. Dans un saladier, versez tout d'abord la farine et la levure, puis incorporez les oeufs 1 par 1 en remuant à la cuillère de façon à obtenir un mélange homogène et sans grumeaux.
@@ -14,7 +12,23 @@ Ajoutez ensuite le gruyère, le vin, l'huile d'olive et un peu de poivre et mél
 
 Laissez refroidir le cake au moins 30 min avant de le démouler et de le servir, soit en tranches à déguster accompagnées d'une salade verte, soit en cubes à picorer avec des mini pics en bois.
 
+
+
+{% page-ref page="./" %}
+
 [https://www.algolia.com/doc/](https://www.algolia.com/doc/) ewrjwehrjwer
+
+
+
+
+
+#### Courses
+
+* [ ] Oeufs
+* [ ] Chocolat
+* [ ] Sucre
+* [ ] Farine
+* [ ] Beurre
 
 
 
