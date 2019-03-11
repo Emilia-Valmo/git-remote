@@ -12,4 +12,5 @@
   * [Mellow](yellow/mellow.md)
 * [Glossary terms](glossary-terms.md)
 * [TEst](test.md)
+* [Recette Dahl de lentilles corail](recette-dahl-de-lentilles-corail.md)
 
